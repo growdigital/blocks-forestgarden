@@ -1,4 +1,4 @@
-# CAD file of forest garden plants
+# CAD library of forest garden plants
 
 ![Screenshot of plant diameter, abbrev and label in CAD](https://res.cloudinary.com/growdigital/image/upload/v1603026905/forest-garden-cad.png)
 
