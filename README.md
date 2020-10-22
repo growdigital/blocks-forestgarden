@@ -11,6 +11,8 @@ A CAD block library of forest garden plants.
 
 ## Types
 
+Each type has its own dedicated file.
+
 * Trees
 * Shrubs
 * Ground cover
@@ -20,3 +22,5 @@ A CAD block library of forest garden plants.
 ## Reference
 
 There is a Google Spreadhseet which lists names, abbreviations and sizes [bit.ly/forest-garden-cad-spreadsheet](http://bit.ly/forest-garden-cad-spreadsheet)
+
+Each type is on its own sheet.
