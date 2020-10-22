@@ -8,3 +8,15 @@ A CAD block library of forest garden plants.
 
 * Label can be hidden for whole document by hiding the `Plant-Type label` layer, to reduce clutter
 * Each plant diameter has a plant abbreviation for ID
+
+## Types
+
+* Trees
+* Shrubs
+* Ground cover
+* Perennial veg
+* Climbers
+
+## Reference
+
+There is a Google Spreadhseet which lists names, abbreviations and sizes [bit.ly/forest-garden-cad-spreadsheet](http://bit.ly/forest-garden-cad-spreadsheet)
