@@ -7,20 +7,14 @@ Forest garden plants CAD block in [DXF](https://en.wikipedia.org/wiki/AutoCAD_DX
 A CAD block library of forest garden plants. 
 
 * Label can be hidden for whole document by hiding the `Plant-Type label` layer, to reduce clutter
-* Each plant diameter has a plant abbreviation for ID
+* Big name is normally the common name
 
 ## Types
 
-Each type has its own dedicated file.
+Each type has its own dedicated file. The order is the same as in Martin Crawford’s book [Creating a Forest Garden](https://www.agroforestry.co.uk/product/creating-a-forest-garden-2/), for which there’s a Forest Garden Spreadsheet [bit.ly/forest-garden-spreadsheet](https://bit.ly/forest-garden-spreadsheet)
 
-* Trees
-* Shrubs
-* Ground cover
-* Perennial veg
-* Climbers
-
-## Reference
-
-There is a Google Spreadhseet which lists names, abbreviations and sizes [bit.ly/forest-garden-cad-spreadsheet](http://bit.ly/forest-garden-cad-spreadsheet)
-
-Each type is on its own sheet.
+1. Canopy
+* Shrub
+* Perennial
+* Annual
+* Climber
