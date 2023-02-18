@@ -1,6 +1,6 @@
-# CAD library of forest garden plants
+# Forest Garden Blocks for CAD
 
-## Work In Progress - not yet ready!
+## Work In Progress
 
 ![Screenshot of plant diameter, abbrev and label in CAD](https://res.cloudinary.com/growdigital/image/upload/v1603026905/forest-garden-cad.png)
 
